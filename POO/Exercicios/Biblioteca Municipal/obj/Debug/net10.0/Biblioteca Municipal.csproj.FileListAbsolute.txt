@@ -1,0 +1,14 @@
+C:\Users\Mendes\source\repos\Biblioteca Municipal\bin\Debug\net10.0\Biblioteca Municipal.exe
+C:\Users\Mendes\source\repos\Biblioteca Municipal\bin\Debug\net10.0\Biblioteca Municipal.deps.json
+C:\Users\Mendes\source\repos\Biblioteca Municipal\bin\Debug\net10.0\Biblioteca Municipal.runtimeconfig.json
+C:\Users\Mendes\source\repos\Biblioteca Municipal\bin\Debug\net10.0\Biblioteca Municipal.dll
+C:\Users\Mendes\source\repos\Biblioteca Municipal\bin\Debug\net10.0\Biblioteca Municipal.pdb
+C:\Users\Mendes\source\repos\Biblioteca Municipal\obj\Debug\net10.0\Biblioteca Municipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mendes\source\repos\Biblioteca Municipal\obj\Debug\net10.0\Biblioteca Municipal.AssemblyInfoInputs.cache
+C:\Users\Mendes\source\repos\Biblioteca Municipal\obj\Debug\net10.0\Biblioteca Municipal.AssemblyInfo.cs
+C:\Users\Mendes\source\repos\Biblioteca Municipal\obj\Debug\net10.0\Biblioteca Municipal.csproj.CoreCompileInputs.cache
+C:\Users\Mendes\source\repos\Biblioteca Municipal\obj\Debug\net10.0\Biblioteca Municipal.dll
+C:\Users\Mendes\source\repos\Biblioteca Municipal\obj\Debug\net10.0\refint\Biblioteca Municipal.dll
+C:\Users\Mendes\source\repos\Biblioteca Municipal\obj\Debug\net10.0\Biblioteca Municipal.pdb
+C:\Users\Mendes\source\repos\Biblioteca Municipal\obj\Debug\net10.0\Biblioteca Municipal.genruntimeconfig.cache
+C:\Users\Mendes\source\repos\Biblioteca Municipal\obj\Debug\net10.0\ref\Biblioteca Municipal.dll

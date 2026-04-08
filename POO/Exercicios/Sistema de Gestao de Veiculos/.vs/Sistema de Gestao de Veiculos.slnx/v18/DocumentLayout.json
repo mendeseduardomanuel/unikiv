@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestao de Veiculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4070D89-A430-4BB9-8F58-425A394F1C13}|Sistema de Gestao de Veiculos.csproj|c:\\users\\mendes\\source\\repos\\sistema de gestao de veiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4070D89-A430-4BB9-8F58-425A394F1C13}|Sistema de Gestao de Veiculos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4070D89-A430-4BB9-8F58-425A394F1C13}|Sistema de Gestao de Veiculos.csproj|c:\\users\\mendes\\source\\repos\\sistema de gestao de veiculos\\model\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4070D89-A430-4BB9-8F58-425A394F1C13}|Sistema de Gestao de Veiculos.csproj|solutionrelative:model\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4070D89-A430-4BB9-8F58-425A394F1C13}|Sistema de Gestao de Veiculos.csproj|c:\\users\\mendes\\source\\repos\\sistema de gestao de veiculos\\model\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4070D89-A430-4BB9-8F58-425A394F1C13}|Sistema de Gestao de Veiculos.csproj|solutionrelative:model\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4070D89-A430-4BB9-8F58-425A394F1C13}|Sistema de Gestao de Veiculos.csproj|c:\\users\\mendes\\source\\repos\\sistema de gestao de veiculos\\model\\motociclo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4070D89-A430-4BB9-8F58-425A394F1C13}|Sistema de Gestao de Veiculos.csproj|solutionrelative:model\\motociclo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4070D89-A430-4BB9-8F58-425A394F1C13}|Sistema de Gestao de Veiculos.csproj|c:\\users\\mendes\\source\\repos\\sistema de gestao de veiculos\\model\\manutencao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4070D89-A430-4BB9-8F58-425A394F1C13}|Sistema de Gestao de Veiculos.csproj|solutionrelative:model\\manutencao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4070D89-A430-4BB9-8F58-425A394F1C13}|Sistema de Gestao de Veiculos.csproj|c:\\users\\mendes\\source\\repos\\sistema de gestao de veiculos\\model\\imanutencao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4070D89-A430-4BB9-8F58-425A394F1C13}|Sistema de Gestao de Veiculos.csproj|solutionrelative:model\\imanutencao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4070D89-A430-4BB9-8F58-425A394F1C13}|Sistema de Gestao de Veiculos.csproj|c:\\users\\mendes\\source\\repos\\sistema de gestao de veiculos\\model\\estadoveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4070D89-A430-4BB9-8F58-425A394F1C13}|Sistema de Gestao de Veiculos.csproj|solutionrelative:model\\estadoveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4070D89-A430-4BB9-8F58-425A394F1C13}|Sistema de Gestao de Veiculos.csproj|c:\\users\\mendes\\source\\repos\\sistema de gestao de veiculos\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4070D89-A430-4BB9-8F58-425A394F1C13}|Sistema de Gestao de Veiculos.csproj|solutionrelative:model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4070D89-A430-4BB9-8F58-425A394F1C13}|Sistema de Gestao de Veiculos.csproj|c:\\users\\mendes\\source\\repos\\sistema de gestao de veiculos\\model\\camiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4070D89-A430-4BB9-8F58-425A394F1C13}|Sistema de Gestao de Veiculos.csproj|solutionrelative:model\\camiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4070D89-A430-4BB9-8F58-425A394F1C13}|Sistema de Gestao de Veiculos.csproj|c:\\users\\mendes\\source\\repos\\sistema de gestao de veiculos\\model\\automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4070D89-A430-4BB9-8F58-425A394F1C13}|Sistema de Gestao de Veiculos.csproj|solutionrelative:model\\automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IManutencao.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestao de Veiculos\\Model\\IManutencao.cs",
+              "RelativeDocumentMoniker": "Model\\IManutencao.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestao de Veiculos\\Model\\IManutencao.cs",
+              "RelativeToolTip": "Model\\IManutencao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:18:46.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manutencao.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestao de Veiculos\\Model\\Manutencao.cs",
+              "RelativeDocumentMoniker": "Model\\Manutencao.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestao de Veiculos\\Model\\Manutencao.cs",
+              "RelativeToolTip": "Model\\Manutencao.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:22:51.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Motociclo.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestao de Veiculos\\Model\\Motociclo.cs",
+              "RelativeDocumentMoniker": "Model\\Motociclo.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestao de Veiculos\\Model\\Motociclo.cs",
+              "RelativeToolTip": "Model\\Motociclo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:21:29.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestao de Veiculos\\Model\\Reserva.cs",
+              "RelativeDocumentMoniker": "Model\\Reserva.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestao de Veiculos\\Model\\Reserva.cs",
+              "RelativeToolTip": "Model\\Reserva.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:30:06.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestao de Veiculos\\Model\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Model\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestao de Veiculos\\Model\\Veiculo.cs",
+              "RelativeToolTip": "Model\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:19:40.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestao de Veiculos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestao de Veiculos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:07:33.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EstadoVeiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestao de Veiculos\\Model\\EstadoVeiculo.cs",
+              "RelativeDocumentMoniker": "Model\\EstadoVeiculo.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestao de Veiculos\\Model\\EstadoVeiculo.cs",
+              "RelativeToolTip": "Model\\EstadoVeiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:17:36.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestao de Veiculos\\Model\\Cliente.cs",
+              "RelativeDocumentMoniker": "Model\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestao de Veiculos\\Model\\Cliente.cs",
+              "RelativeToolTip": "Model\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:24:13.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Camiao.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestao de Veiculos\\Model\\Camiao.cs",
+              "RelativeDocumentMoniker": "Model\\Camiao.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestao de Veiculos\\Model\\Camiao.cs",
+              "RelativeToolTip": "Model\\Camiao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:22:13.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Automovel.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestao de Veiculos\\Model\\Automovel.cs",
+              "RelativeDocumentMoniker": "Model\\Automovel.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestao de Veiculos\\Model\\Automovel.cs",
+              "RelativeToolTip": "Model\\Automovel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:20:33.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

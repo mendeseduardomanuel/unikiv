@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|c:\\users\\mendes\\source\\repos\\sistema de gest\u00E3o hospitalar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|c:\\users\\mendes\\source\\repos\\sistema de gest\u00E3o hospitalar\\model\\tipoturma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|solutionrelative:model\\tipoturma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|c:\\users\\mendes\\source\\repos\\sistema de gest\u00E3o hospitalar\\model\\prescricao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|solutionrelative:model\\prescricao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|c:\\users\\mendes\\source\\repos\\sistema de gest\u00E3o hospitalar\\model\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|solutionrelative:model\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|c:\\users\\mendes\\source\\repos\\sistema de gest\u00E3o hospitalar\\model\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|solutionrelative:model\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|c:\\users\\mendes\\source\\repos\\sistema de gest\u00E3o hospitalar\\model\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|solutionrelative:model\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|c:\\users\\mendes\\source\\repos\\sistema de gest\u00E3o hospitalar\\model\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|solutionrelative:model\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|c:\\users\\mendes\\source\\repos\\sistema de gest\u00E3o hospitalar\\model\\itratamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|solutionrelative:model\\itratamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|c:\\users\\mendes\\source\\repos\\sistema de gest\u00E3o hospitalar\\model\\internamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|solutionrelative:model\\internamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|c:\\users\\mendes\\source\\repos\\sistema de gest\u00E3o hospitalar\\model\\enfermeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|solutionrelative:model\\enfermeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|c:\\users\\mendes\\source\\repos\\sistema de gest\u00E3o hospitalar\\model\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5379645D-604A-4F24-B64D-520DDAFFD5FE}|Sistema de Gest\u00E3o Hospitalar.csproj|solutionrelative:model\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Medicamento.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Model\\Medicamento.cs",
+              "RelativeDocumentMoniker": "Model\\Medicamento.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Model\\Medicamento.cs",
+              "RelativeToolTip": "Model\\Medicamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:45:08.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Model\\Medico.cs",
+              "RelativeDocumentMoniker": "Model\\Medico.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Model\\Medico.cs",
+              "RelativeToolTip": "Model\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:40:34.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Model\\Paciente.cs",
+              "RelativeDocumentMoniker": "Model\\Paciente.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Model\\Paciente.cs",
+              "RelativeToolTip": "Model\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:42:03.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Model\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Model\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Model\\Pessoa.cs",
+              "RelativeToolTip": "Model\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:39:51.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prescricao.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Model\\Prescricao.cs",
+              "RelativeDocumentMoniker": "Model\\Prescricao.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Model\\Prescricao.cs",
+              "RelativeToolTip": "Model\\Prescricao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:45:45.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoTurma.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Model\\TipoTurma.cs",
+              "RelativeDocumentMoniker": "Model\\TipoTurma.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Model\\TipoTurma.cs",
+              "RelativeToolTip": "Model\\TipoTurma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:38:05.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:26:59.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITratamento.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Model\\ITratamento.cs",
+              "RelativeDocumentMoniker": "Model\\ITratamento.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Model\\ITratamento.cs",
+              "RelativeToolTip": "Model\\ITratamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:39:20.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Internamento.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Model\\Internamento.cs",
+              "RelativeDocumentMoniker": "Model\\Internamento.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Model\\Internamento.cs",
+              "RelativeToolTip": "Model\\Internamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:44:10.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enfermeiro.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Model\\Enfermeiro.cs",
+              "RelativeDocumentMoniker": "Model\\Enfermeiro.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Model\\Enfermeiro.cs",
+              "RelativeToolTip": "Model\\Enfermeiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:42:37.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Model\\Consulta.cs",
+              "RelativeDocumentMoniker": "Model\\Consulta.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Hospitalar\\Model\\Consulta.cs",
+              "RelativeToolTip": "Model\\Consulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:43:28.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

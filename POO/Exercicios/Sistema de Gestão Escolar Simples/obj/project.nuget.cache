@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "jz/3CW3Rkqk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestão Escolar Simples\\Sistema de Gestão Escolar Simples.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\Mendes\\source\\repos\\Sistema de Gestão Escolar Simples\\obj\\project.nuget.cache: '0x00' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestão Escolar Simples\\Sistema de Gestão Escolar Simples.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gestão Escolar Simples\\Sistema de Gestão Escolar Simples.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

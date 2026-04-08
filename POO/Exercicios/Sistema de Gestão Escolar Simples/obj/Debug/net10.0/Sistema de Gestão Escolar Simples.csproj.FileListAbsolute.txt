@@ -1,0 +1,14 @@
+C:\Users\Mendes\source\repos\Sistema de Gestão Escolar Simples\bin\Debug\net10.0\Sistema de Gestão Escolar Simples.exe
+C:\Users\Mendes\source\repos\Sistema de Gestão Escolar Simples\bin\Debug\net10.0\Sistema de Gestão Escolar Simples.deps.json
+C:\Users\Mendes\source\repos\Sistema de Gestão Escolar Simples\bin\Debug\net10.0\Sistema de Gestão Escolar Simples.runtimeconfig.json
+C:\Users\Mendes\source\repos\Sistema de Gestão Escolar Simples\bin\Debug\net10.0\Sistema de Gestão Escolar Simples.dll
+C:\Users\Mendes\source\repos\Sistema de Gestão Escolar Simples\bin\Debug\net10.0\Sistema de Gestão Escolar Simples.pdb
+C:\Users\Mendes\source\repos\Sistema de Gestão Escolar Simples\obj\Debug\net10.0\Sistema de Gestão Escolar Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mendes\source\repos\Sistema de Gestão Escolar Simples\obj\Debug\net10.0\Sistema de Gestão Escolar Simples.AssemblyInfoInputs.cache
+C:\Users\Mendes\source\repos\Sistema de Gestão Escolar Simples\obj\Debug\net10.0\Sistema de Gestão Escolar Simples.AssemblyInfo.cs
+C:\Users\Mendes\source\repos\Sistema de Gestão Escolar Simples\obj\Debug\net10.0\Sistema de Gestão Escolar Simples.csproj.CoreCompileInputs.cache
+C:\Users\Mendes\source\repos\Sistema de Gestão Escolar Simples\obj\Debug\net10.0\Sistema de Gestão Escolar Simples.dll
+C:\Users\Mendes\source\repos\Sistema de Gestão Escolar Simples\obj\Debug\net10.0\refint\Sistema de Gestão Escolar Simples.dll
+C:\Users\Mendes\source\repos\Sistema de Gestão Escolar Simples\obj\Debug\net10.0\Sistema de Gestão Escolar Simples.pdb
+C:\Users\Mendes\source\repos\Sistema de Gestão Escolar Simples\obj\Debug\net10.0\Sistema de Gestão Escolar Simples.genruntimeconfig.cache
+C:\Users\Mendes\source\repos\Sistema de Gestão Escolar Simples\obj\Debug\net10.0\ref\Sistema de Gestão Escolar Simples.dll

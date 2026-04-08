@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|c:\\users\\mendes\\source\\repos\\plataforma de ensino online (e-learning)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|c:\\users\\mendes\\source\\repos\\plataforma de ensino online (e-learning)\\model\\inscricao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|solutionrelative:model\\inscricao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|c:\\users\\mendes\\source\\repos\\plataforma de ensino online (e-learning)\\model\\licao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|solutionrelative:model\\licao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|c:\\users\\mendes\\source\\repos\\plataforma de ensino online (e-learning)\\model\\instrutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|solutionrelative:model\\instrutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|c:\\users\\mendes\\source\\repos\\plataforma de ensino online (e-learning)\\model\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|solutionrelative:model\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|c:\\users\\mendes\\source\\repos\\plataforma de ensino online (e-learning)\\model\\nivelcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|solutionrelative:model\\nivelcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|c:\\users\\mendes\\source\\repos\\plataforma de ensino online (e-learning)\\model\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|solutionrelative:model\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|c:\\users\\mendes\\source\\repos\\plataforma de ensino online (e-learning)\\model\\iavaliavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|solutionrelative:model\\iavaliavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|c:\\users\\mendes\\source\\repos\\plataforma de ensino online (e-learning)\\model\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|solutionrelative:model\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|c:\\users\\mendes\\source\\repos\\plataforma de ensino online (e-learning)\\model\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|solutionrelative:model\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|c:\\users\\mendes\\source\\repos\\plataforma de ensino online (e-learning)\\model\\certificado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|solutionrelative:model\\certificado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|c:\\users\\mendes\\source\\repos\\plataforma de ensino online (e-learning)\\plataforma de ensino online (e-learning).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{533B6880-ABC9-502B-EB61-4A8FC2B8D27D}|Plataforma de Ensino Online (E-Learning).csproj|solutionrelative:plataforma de ensino online (e-learning).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inscricao.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Model\\Inscricao.cs",
+              "RelativeDocumentMoniker": "Model\\Inscricao.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Model\\Inscricao.cs",
+              "RelativeToolTip": "Model\\Inscricao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:09:40.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Licao.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Model\\Licao.cs",
+              "RelativeDocumentMoniker": "Model\\Licao.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Model\\Licao.cs",
+              "RelativeToolTip": "Model\\Licao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:07:50.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Instrutor.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Model\\Instrutor.cs",
+              "RelativeDocumentMoniker": "Model\\Instrutor.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Model\\Instrutor.cs",
+              "RelativeToolTip": "Model\\Instrutor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:05:29.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Modulo.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Model\\Modulo.cs",
+              "RelativeDocumentMoniker": "Model\\Modulo.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Model\\Modulo.cs",
+              "RelativeToolTip": "Model\\Modulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:07:21.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NivelCurso.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Model\\NivelCurso.cs",
+              "RelativeDocumentMoniker": "Model\\NivelCurso.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Model\\NivelCurso.cs",
+              "RelativeToolTip": "Model\\NivelCurso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T02:56:41.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utilizador.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Model\\Utilizador.cs",
+              "RelativeDocumentMoniker": "Model\\Utilizador.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Model\\Utilizador.cs",
+              "RelativeToolTip": "Model\\Utilizador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:03:04.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAIwM4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T02:22:59.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAvaliavel.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Model\\IAvaliavel.cs",
+              "RelativeDocumentMoniker": "Model\\IAvaliavel.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Model\\IAvaliavel.cs",
+              "RelativeToolTip": "Model\\IAvaliavel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T02:58:21.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Estudante.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Model\\Estudante.cs",
+              "RelativeDocumentMoniker": "Model\\Estudante.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Model\\Estudante.cs",
+              "RelativeToolTip": "Model\\Estudante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:04:23.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Model\\Curso.cs",
+              "RelativeDocumentMoniker": "Model\\Curso.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Model\\Curso.cs",
+              "RelativeToolTip": "Model\\Curso.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:06:09.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Certificado.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Model\\Certificado.cs",
+              "RelativeDocumentMoniker": "Model\\Certificado.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Model\\Certificado.cs",
+              "RelativeToolTip": "Model\\Certificado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:10:16.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Plataforma de Ensino Online (E-Learning).csproj",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Plataforma de Ensino Online (E-Learning).csproj",
+              "RelativeDocumentMoniker": "Plataforma de Ensino Online (E-Learning).csproj",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Plataforma de Ensino Online (E-Learning)\\Plataforma de Ensino Online (E-Learning).csproj",
+              "RelativeToolTip": "Plataforma de Ensino Online (E-Learning).csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-08T02:54:31.873Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

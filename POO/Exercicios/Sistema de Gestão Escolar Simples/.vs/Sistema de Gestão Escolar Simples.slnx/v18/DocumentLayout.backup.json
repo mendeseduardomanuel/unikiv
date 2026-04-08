@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Escolar Simples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFFFF4C-BEC6-D5CD-8969-D343F34F5A61}|Sistema de Gest\u00E3o Escolar Simples.csproj|c:\\users\\mendes\\source\\repos\\sistema de gest\u00E3o escolar simples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFFFF4C-BEC6-D5CD-8969-D343F34F5A61}|Sistema de Gest\u00E3o Escolar Simples.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFFFF4C-BEC6-D5CD-8969-D343F34F5A61}|Sistema de Gest\u00E3o Escolar Simples.csproj|c:\\users\\mendes\\source\\repos\\sistema de gest\u00E3o escolar simples\\model\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFFFF4C-BEC6-D5CD-8969-D343F34F5A61}|Sistema de Gest\u00E3o Escolar Simples.csproj|solutionrelative:model\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFFFF4C-BEC6-D5CD-8969-D343F34F5A61}|Sistema de Gest\u00E3o Escolar Simples.csproj|c:\\users\\mendes\\source\\repos\\sistema de gest\u00E3o escolar simples\\model\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFFFF4C-BEC6-D5CD-8969-D343F34F5A61}|Sistema de Gest\u00E3o Escolar Simples.csproj|solutionrelative:model\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFFFF4C-BEC6-D5CD-8969-D343F34F5A61}|Sistema de Gest\u00E3o Escolar Simples.csproj|c:\\users\\mendes\\source\\repos\\sistema de gest\u00E3o escolar simples\\model\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFFFF4C-BEC6-D5CD-8969-D343F34F5A61}|Sistema de Gest\u00E3o Escolar Simples.csproj|solutionrelative:model\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFFFF4C-BEC6-D5CD-8969-D343F34F5A61}|Sistema de Gest\u00E3o Escolar Simples.csproj|c:\\users\\mendes\\source\\repos\\sistema de gest\u00E3o escolar simples\\model\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFFFF4C-BEC6-D5CD-8969-D343F34F5A61}|Sistema de Gest\u00E3o Escolar Simples.csproj|solutionrelative:model\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFFFF4C-BEC6-D5CD-8969-D343F34F5A61}|Sistema de Gest\u00E3o Escolar Simples.csproj|c:\\users\\mendes\\source\\repos\\sistema de gest\u00E3o escolar simples\\sistema de gest\u00E3o escolar simples.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCFFFF4C-BEC6-D5CD-8969-D343F34F5A61}|Sistema de Gest\u00E3o Escolar Simples.csproj|solutionrelative:sistema de gest\u00E3o escolar simples.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Turma.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Escolar Simples\\Model\\Turma.cs",
+              "RelativeDocumentMoniker": "Model\\Turma.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Escolar Simples\\Model\\Turma.cs*",
+              "RelativeToolTip": "Model\\Turma.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T23:03:00.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Escolar Simples\\Model\\Professor.cs",
+              "RelativeDocumentMoniker": "Model\\Professor.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Escolar Simples\\Model\\Professor.cs*",
+              "RelativeToolTip": "Model\\Professor.cs*",
+              "ViewState": "AgIAAAgAAACwzMzMzMw7wAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T22:54:50.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Escolar Simples\\Model\\Aluno.cs",
+              "RelativeDocumentMoniker": "Model\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Escolar Simples\\Model\\Aluno.cs*",
+              "RelativeToolTip": "Model\\Aluno.cs*",
+              "ViewState": "AgIAAA4AAAAgAAAAAAAwwAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T22:48:47.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Escolar Simples\\Model\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Model\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Escolar Simples\\Model\\Pessoa.cs*",
+              "RelativeToolTip": "Model\\Pessoa.cs*",
+              "ViewState": "AgIAAAMAAACwMjMzMzMbwAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T22:32:12.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sistema de Gest\u00E3o Escolar Simples.csproj",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Escolar Simples\\Sistema de Gest\u00E3o Escolar Simples.csproj",
+              "RelativeDocumentMoniker": "Sistema de Gest\u00E3o Escolar Simples.csproj",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Escolar Simples\\Sistema de Gest\u00E3o Escolar Simples.csproj",
+              "RelativeToolTip": "Sistema de Gest\u00E3o Escolar Simples.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-07T22:26:26.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Escolar Simples\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mendes\\source\\repos\\Sistema de Gest\u00E3o Escolar Simples\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T18:21:48.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

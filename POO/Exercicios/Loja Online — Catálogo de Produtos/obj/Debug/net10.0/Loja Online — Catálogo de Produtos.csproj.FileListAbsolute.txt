@@ -1,0 +1,14 @@
+C:\Users\Mendes\source\repos\Loja Online — Catálogo de Produtos\bin\Debug\net10.0\Loja Online — Catálogo de Produtos.exe
+C:\Users\Mendes\source\repos\Loja Online — Catálogo de Produtos\bin\Debug\net10.0\Loja Online — Catálogo de Produtos.deps.json
+C:\Users\Mendes\source\repos\Loja Online — Catálogo de Produtos\bin\Debug\net10.0\Loja Online — Catálogo de Produtos.runtimeconfig.json
+C:\Users\Mendes\source\repos\Loja Online — Catálogo de Produtos\bin\Debug\net10.0\Loja Online — Catálogo de Produtos.dll
+C:\Users\Mendes\source\repos\Loja Online — Catálogo de Produtos\bin\Debug\net10.0\Loja Online — Catálogo de Produtos.pdb
+C:\Users\Mendes\source\repos\Loja Online — Catálogo de Produtos\obj\Debug\net10.0\Loja Online — Catálogo de Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mendes\source\repos\Loja Online — Catálogo de Produtos\obj\Debug\net10.0\Loja Online — Catálogo de Produtos.AssemblyInfoInputs.cache
+C:\Users\Mendes\source\repos\Loja Online — Catálogo de Produtos\obj\Debug\net10.0\Loja Online — Catálogo de Produtos.AssemblyInfo.cs
+C:\Users\Mendes\source\repos\Loja Online — Catálogo de Produtos\obj\Debug\net10.0\Loja Online — Catálogo de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Mendes\source\repos\Loja Online — Catálogo de Produtos\obj\Debug\net10.0\Loja Online — Catálogo de Produtos.dll
+C:\Users\Mendes\source\repos\Loja Online — Catálogo de Produtos\obj\Debug\net10.0\refint\Loja Online — Catálogo de Produtos.dll
+C:\Users\Mendes\source\repos\Loja Online — Catálogo de Produtos\obj\Debug\net10.0\Loja Online — Catálogo de Produtos.pdb
+C:\Users\Mendes\source\repos\Loja Online — Catálogo de Produtos\obj\Debug\net10.0\Loja Online — Catálogo de Produtos.genruntimeconfig.cache
+C:\Users\Mendes\source\repos\Loja Online — Catálogo de Produtos\obj\Debug\net10.0\ref\Loja Online — Catálogo de Produtos.dll
