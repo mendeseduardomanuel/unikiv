@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SistemaAcademico.Model.Assistente">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Assistente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaAcademico.Model.Avaliacao">
+    <Position X="3.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Model\Avaliacao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SistemaAcademico.Model.Docente">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Docente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaAcademico.Model.Estudante" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Model\Estudante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaAcademico.Model.ExameFinal">
+    <Position X="1" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ExameFinal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaAcademico.Model.Pessoa" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Model\Pessoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaAcademico.Model.Projecto">
+    <Position X="6" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Projecto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaAcademico.Model.Teste">
+    <Position X="3.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Teste.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaAcademico.Model.Titular">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Titular.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaAcademico.Model.UnidadeCurricular">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAQgAAAAAAAAAAAAAAAAAgAAEAAAA=</HashCode>
+      <FileName>Model\UnidadeCurricular.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SistemaAcademico.Model.IAvaliavel">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\IAvaliavel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

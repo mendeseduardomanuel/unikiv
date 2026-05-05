@@ -1,0 +1,14 @@
+C:\Users\Mendes\Desktop\Tarefas\SistemaAluguerVeiculos\bin\Debug\net10.0\SistemaAluguerVeiculos.exe
+C:\Users\Mendes\Desktop\Tarefas\SistemaAluguerVeiculos\bin\Debug\net10.0\SistemaAluguerVeiculos.deps.json
+C:\Users\Mendes\Desktop\Tarefas\SistemaAluguerVeiculos\bin\Debug\net10.0\SistemaAluguerVeiculos.runtimeconfig.json
+C:\Users\Mendes\Desktop\Tarefas\SistemaAluguerVeiculos\bin\Debug\net10.0\SistemaAluguerVeiculos.dll
+C:\Users\Mendes\Desktop\Tarefas\SistemaAluguerVeiculos\bin\Debug\net10.0\SistemaAluguerVeiculos.pdb
+C:\Users\Mendes\Desktop\Tarefas\SistemaAluguerVeiculos\obj\Debug\net10.0\SistemaAluguerVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mendes\Desktop\Tarefas\SistemaAluguerVeiculos\obj\Debug\net10.0\SistemaAluguerVeiculos.AssemblyInfoInputs.cache
+C:\Users\Mendes\Desktop\Tarefas\SistemaAluguerVeiculos\obj\Debug\net10.0\SistemaAluguerVeiculos.AssemblyInfo.cs
+C:\Users\Mendes\Desktop\Tarefas\SistemaAluguerVeiculos\obj\Debug\net10.0\SistemaAluguerVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\Mendes\Desktop\Tarefas\SistemaAluguerVeiculos\obj\Debug\net10.0\SistemaAluguerVeiculos.dll
+C:\Users\Mendes\Desktop\Tarefas\SistemaAluguerVeiculos\obj\Debug\net10.0\refint\SistemaAluguerVeiculos.dll
+C:\Users\Mendes\Desktop\Tarefas\SistemaAluguerVeiculos\obj\Debug\net10.0\SistemaAluguerVeiculos.pdb
+C:\Users\Mendes\Desktop\Tarefas\SistemaAluguerVeiculos\obj\Debug\net10.0\SistemaAluguerVeiculos.genruntimeconfig.cache
+C:\Users\Mendes\Desktop\Tarefas\SistemaAluguerVeiculos\obj\Debug\net10.0\ref\SistemaAluguerVeiculos.dll

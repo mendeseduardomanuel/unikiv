@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SistemaAluguerVeiculos.Aluguer">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAgAAAACAAAAAAAAAAAAgAAMAAAAAAAA=</HashCode>
+      <FileName>Aluguer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaAluguerVeiculos.Cliente">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAACA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaAluguerVeiculos.Veiculo">
+    <Position X="1" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAQADAAkCQQAAAgAAAAAAAAAAAAAAAAACgAAAAoAAA=</HashCode>
+      <FileName>Veiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
