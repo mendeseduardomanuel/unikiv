@@ -1,0 +1,57 @@
+# =============================================================================
+# .gitignore — InventárioIA
+# =============================================================================
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+
+# Logs gerados pela aplicação
+logs/
+*.log
+
+# Ficheiros gerados em reports (CSVs exportados e modelo IA)
+reports/*.csv
+reports/*.pkl
+reports/*.html
+
+# Base de dados local (se usar SQLite para testes)
+*.db
+*.sqlite3
+
+# Ficheiros de dados MongoDB (se usar --dbpath local)
+data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Cobertura de testes
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Distribuição
+*.zip
+*.tar.gz
