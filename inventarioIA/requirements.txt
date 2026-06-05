@@ -1,0 +1,46 @@
+# =============================================================================
+# InventárioIA — requirements.txt
+# Sistema Inteligente de Gestão de Inventário com IA
+# Instituto Politécnico - UNIKIVI | Linguagem de Programação VI
+# =============================================================================
+#
+# Instalação:
+#   pip install -r requirements.txt
+#
+# Versão Python recomendada: 3.12+
+# =============================================================================
+
+# ─────────────────────────────────────────────────────────
+# GUI — Interface Gráfica
+# ─────────────────────────────────────────────────────────
+customtkinter==5.2.2          # Framework GUI moderna baseada em Tkinter
+
+# ─────────────────────────────────────────────────────────
+# Base de Dados — MongoDB / MongoEngine
+# ─────────────────────────────────────────────────────────
+mongoengine==0.27.0           # ODM (Object-Document Mapper) para MongoDB
+pymongo==4.6.3                # Driver oficial Python para MongoDB
+
+# ─────────────────────────────────────────────────────────
+# Inteligência Artificial — scikit-learn
+# ─────────────────────────────────────────────────────────
+scikit-learn==1.4.2           # Machine Learning (Regressão Linear)
+numpy==1.26.4                 # Operações numéricas e vectores
+joblib==1.3.2                 # Serialização de modelos ML (usado pelo sklearn)
+
+# ─────────────────────────────────────────────────────────
+# Visualização — Gráficos Matplotlib
+# ─────────────────────────────────────────────────────────
+matplotlib==3.8.4             # Gráficos 2D (integrado no CustomTkinter via TkAgg)
+
+# ─────────────────────────────────────────────────────────
+# Utilitários
+# ─────────────────────────────────────────────────────────
+pillow==10.3.0                # Processamento de imagens (necessário para CustomTkinter)
+
+# ─────────────────────────────────────────────────────────
+# Testes
+# ─────────────────────────────────────────────────────────
+# unittest já incluído na biblioteca padrão do Python
+# Opcional para relatórios de cobertura:
+# coverage==7.4.4             # pip install coverage && coverage run -m pytest
